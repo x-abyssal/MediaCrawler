@@ -220,6 +220,13 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/digiaries">
+                    <img src="https://avatars.githubusercontent.com/u/1033317?v=4" width="100;" alt="digiaries"/>
+                    <br />
+                    <sub><b>digiaries</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PeanutSplash">
                     <img src="https://avatars.githubusercontent.com/u/98582625?v=4" width="100;" alt="PeanutSplash"/>
                     <br />
@@ -245,13 +252,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <img src="https://avatars.githubusercontent.com/u/51102894?v=4" width="100;" alt="Akiqqqqqqq"/>
                     <br />
                     <sub><b>leonardoqiuyu</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/digiaries">
-                    <img src="https://avatars.githubusercontent.com/u/1033317?v=4" width="100;" alt="digiaries"/>
-                    <br />
-                    <sub><b>digiaries</b></sub>
                 </a>
             </td>
 		</tr>
