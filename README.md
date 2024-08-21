@@ -208,26 +208,26 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/digiaries">
+                    <img src="https://avatars.githubusercontent.com/u/1033317?v=4" width="100;" alt="digiaries"/>
+                    <br />
+                    <sub><b>digiaries</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/helloteemo">
                     <img src="https://avatars.githubusercontent.com/u/46838719?v=4" width="100;" alt="helloteemo"/>
                     <br />
                     <sub><b>helloteemo</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Hiro-Lin">
                     <img src="https://avatars.githubusercontent.com/u/40111864?v=4" width="100;" alt="Hiro-Lin"/>
                     <br />
                     <sub><b>HIRO</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/digiaries">
-                    <img src="https://avatars.githubusercontent.com/u/1033317?v=4" width="100;" alt="digiaries"/>
-                    <br />
-                    <sub><b>digiaries</b></sub>
                 </a>
             </td>
             <td align="center">
