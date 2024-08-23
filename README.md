@@ -201,17 +201,17 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/nelzomal">
-                    <img src="https://avatars.githubusercontent.com/u/8512926?v=4" width="100;" alt="nelzomal"/>
-                    <br />
-                    <sub><b>zhounan</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/digiaries">
                     <img src="https://avatars.githubusercontent.com/u/1033317?v=4" width="100;" alt="digiaries"/>
                     <br />
                     <sub><b>digiaries</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nelzomal">
+                    <img src="https://avatars.githubusercontent.com/u/8512926?v=4" width="100;" alt="nelzomal"/>
+                    <br />
+                    <sub><b>zhounan</b></sub>
                 </a>
             </td>
 		</tr>
